@@ -328,10 +328,10 @@ div {
 }
 
 .box {
-  margin-left: 35%;
-  height: 30%; 
-  width: 30%;
-  text-align: center;
+  display: inherit;
+  height: 683px; 
+  width: 455px;
+  margin: auto;
 }
 
 .bgr {
